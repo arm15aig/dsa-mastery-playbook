@@ -9,39 +9,39 @@ This repository contains curated structural blueprints, core patterns, algorithm
 
 Each subfolder contains a dedicated `README.md` breaking down the core structural patterns, algorithmic blueprints, Big-O metrics, and target interview checklists:
 
-* **[Topic 1: Arrays & Strings](./01_arrays_and_strings)**
+* **[Topic 1: Arrays & Strings](./01_Array_&_Strings)**
   * *Pattern*: Two-Pointer / Sliding Window ($O(N)$ Time, $O(1)$ Space)
   * *Practice Targets*: Designer PDF Viewer, Left Rotation
 
-* **[Topic 2: Linked Lists](./02_linked_lists)**
+* **[Topic 2: Linked Lists](./02_Linked_Lists)**
   * *Pattern*: Floyd's Tortoise and Hare Cycle Detection ($O(N)$ Time, $O(1)$ Space)
   * *Practice Targets*: Insert a Node at a Position, Cycle Detection
 
-* **[Topic 3: Stacks & Queues](./03_stacks_and_queues)**
+* **[Topic 3: Stacks & Queues](./03_Stacks_&_Queues)**
   * *Pattern*: LIFO Symmetry Tracking ($O(N)$ Time, $O(N)$ Space)
   * *Practice Targets*: Balanced Brackets, Queue Using Two Stacks
 
-* **[Topic 4: Hash Maps & Sets](./04_hash_maps_and_sets)**
+* **[Topic 4: Hash Maps & Sets](./04_Hash_Maps_&_Sets)**
   * *Pattern*: Complement Target Lookup ($O(N)$ Time, $O(N)$ Space)
   * *Practice Targets*: Ice Cream Parlor, Colorful Number
 
-* **[Topic 5: Sorting Algorithms](./05_sorting_algorithms)**
+* **[Topic 5: Sorting Algorithms](./05_Sorting_Algorithms)**
   * *Pattern*: Preprocessing & Divide and Conquer ($O(N \log N)$ Time)
   * *Practice Targets*: Insertion Sort part 2, Quicksort part 2
 
-* **[Topic 6: Trees](./06_trees)**
+* **[Topic 6: Trees](./06_Trees)**
   * *Pattern*: Recursive Subtree Depth Calculation ($O(N)$ Time, $O(H)$ Space)
   * *Practice Targets*: Binary Tree Insertion, Height of a Binary Tree, QHeap1
 
-* **[Topic 7: Graphs (BFS & DFS)](./07_graphs)**
+* **[Topic 7: Graphs (BFS & DFS)](./07_Graphs_(BFS_&_DFS))**
   * *Pattern*: Breadth-First Level Traversal ($O(V + E)$ Time, $O(V)$ Space)
   * *Practice Targets*: Breadth-First Search Snakes and Ladders
 
-* **[Topic 8: Recursion & Backtracking](./08_recursion_and_backtracking)**
+* **[Topic 8: Recursion & Backtracking](./08_Recursion_&_Backtracking)**
   * *Pattern*: State Exploration & Reversal / Backtracking ($O(K^N)$ Time, $O(N)$ Space)
   * *Practice Targets*: Fibonacci Numbers
 
-* **[Topic 9: Dynamic Programming](./09_dynamic_programming)**
+* **[Topic 9: Dynamic Programming](./09_Dynamic_Programming)**
   * *Pattern*: Memoized Top-Down State Overlap ($O(\text{States})$ Time, $O(\text{States})$ Space)
   * *Practice Targets*: Optimization and State Memoization Caching
 
