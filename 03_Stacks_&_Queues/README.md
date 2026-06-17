@@ -1,5 +1,10 @@
 # Topic 3: Stacks & Queues
 
+# Complexity
+Time Complexity: O(N) — The string elements are processed exactly once. Individual stack push/pop actions cost standard O(1) time.
+
+Space Complexity: O(N) — In worst-case conditions (e.g., all opening elements), the stack scales linearly with your input length.
+
 * **Sample Practice Focus**: *Balanced Brackets*, *Queue Using Two Stacks*.
 
 ---

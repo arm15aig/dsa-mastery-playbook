@@ -1,5 +1,10 @@
 # Topic 2: Linked Lists
 
+# Complexity
+Time Complexity: O(N) — The fast pointer will inevitably lap and meet the slow pointer within the loop limits if a cycle exists.
+
+Space Complexity: O(1) — Uses fixed pointer references, requiring absolutely no extra allocation vectors.
+
 * **Sample Practice Focus**: *Insert a Node at a Position*, *Cycle Detection*.
 
 ---

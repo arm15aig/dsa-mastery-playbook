@@ -1,5 +1,10 @@
 # Topic 9: Dynamic Programming (DP)
 
+# Complexity
+Time Complexity: O(Unique States) — With memoization, each distinct state configuration is calculated exactly once, turning exponential paths into clean, linear runtimes.
+
+Space Complexity: O(Unique States) — Memory is required to maintain the lookup cache alongside the recursive call stack.
+
 ---
 
 ## 🛠️ Core Pattern: Memoized State Overlap (Top-Down DP)

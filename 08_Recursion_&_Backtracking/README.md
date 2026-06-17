@@ -1,5 +1,10 @@
 # Topic 8: Recursion & Backtracking
 
+# Complexity
+Time Complexity: Exponential (O(K^N) or O(N!)) — Combinatorial generation requires exploring an inherently wide tree of structural options.
+
+Space Complexity: O(N) — The memory footprint scales linearly with the maximum depth of your recursive decision path.
+
 * **Sample Practice Focus**: *Fibonacci Numbers*.
 
 ---

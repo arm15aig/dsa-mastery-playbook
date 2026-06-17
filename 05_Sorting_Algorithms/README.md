@@ -1,5 +1,10 @@
 # Topic 5: Sorting Algorithms
 
+# Complexity
+Time Complexity: O(N log N) — Average and worst-case for Merge Sort or stable QuickSort variants.
+
+Space Complexity: Varies. Merge Sort requires O(N) auxiliary memory space, whereas QuickSort operates mostly in-place requiring O(log N) helper space depth.
+
 * **Sample Practice Focus**: *Insertion Sort*, *Quicksort*.
 
 ---

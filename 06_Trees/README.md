@@ -1,5 +1,10 @@
 # Topic 6: Trees
 
+# Complexity
+Time Complexity: O(N) — You must traverse and visit every node across the tree structure to find the total depth.
+
+Space Complexity: O(H) — Dependent on the call stack depth height H. For balanced trees, this is O(log N); for highly skewed trees, it scales to O(N).
+
 * **Sample Practice Focus**: *Binary Tree Insertion*, *Height of a Binary Tree*, *QHeap1*.
 
 ---

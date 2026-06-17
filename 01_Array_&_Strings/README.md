@@ -1,5 +1,10 @@
 # Topic 1: Arrays & Strings
 
+# Complexity
+Time Complexity: O(N) — You iterate through the array structure elements exactly once as pointers move toward each other.
+
+Space Complexity: O(1) — Only a couple of index tracker variables are used, meaning memory remains completely constant.
+
 * **Sample Practice Focus**: *Designer PDF Viewer*, *Left Rotation*.
 
 ---

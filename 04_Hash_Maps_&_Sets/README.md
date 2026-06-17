@@ -1,5 +1,10 @@
 # Topic 4: Hash Maps & Sets
 
+# Complexity
+Time Complexity: O(N) — A single pass through the collection, utilizing O(1) average hash map lookup and insertion speeds.
+
+Space Complexity: O(N) — In the worst case, you store up to N keys inside the map before finding a valid match.
+
 * **Sample Practice Focus**: *Ice Cream Parlor*, *Colorful Number*.
 
 ---
